@@ -32,13 +32,18 @@ export class CadastroFilmesComponent implements OnInit {
   }
 
   salvar(): void {
+    this.cadastro.markAllAsTouched();
     if(this.cadastro.invalid){
-      alert('Invalido\n' );
       return;
     }
     else{
       alert('Sucesso\n ' + JSON.stringify(this.cadastro.value, null,4));
     }
   }
+
+  get f(){
+    return this.cadastro.controls;
+  }
+
 
 }
