@@ -101,7 +101,7 @@
       "id": 10
     },
     {
-      "titulo": "Star Wars: A Ascensão Skywalker",
+      "titulo": "Star Wars: A Ascensão Skywalker 2",
       "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
       "dtLancamento": "2019-12-19T03:00:00.000Z",
       "descricao": "In Theaters Now\nAfter Palpatine mysteriously returns, the Resistance faces the First Order once more in the final chapter of the Skywalker saga.",
@@ -109,26 +109,6 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
-    },
-    {
-      "titulo": "111111",
-      "urlFoto": "",
-      "dtLancamento": "2021-06-29T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Romance",
-      "id": 12
-    },
-    {
-      "titulo": "11",
-      "urlFoto": "",
-      "dtLancamento": "2021-06-29T03:00:00.000Z",
-      "descricao": "asdasda\nasd\nasd\nasd\nas\ndasd\nas",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Romance",
-      "id": 13
     }
   ]
 }
