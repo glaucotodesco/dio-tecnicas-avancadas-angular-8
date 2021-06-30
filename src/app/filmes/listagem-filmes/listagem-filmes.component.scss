@@ -10,10 +10,18 @@
   }
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 525px) {
   .home-content {
     .home-card {
       width: calc(50% - 52px);
+    }
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .home-content {
+    .home-card {
+      width: calc(33.33% - 52px);
     }
   }
 }
@@ -24,4 +32,16 @@
         width: calc(25% - 52px);
       }
     }
+  }
+
+
+  .mat-card-image {
+    width: 182px;
+    height: 268px;
+    margin: auto;
+    display: block;
+  }
+
+  .filtro-listagem {
+    width: calc(100% - 50px);
   }
